@@ -1,1 +1,3 @@
-# Challenge_Foro-Hub
+# Challenge Foro Hub
+
+- Estado del proyecto: Finalizado
